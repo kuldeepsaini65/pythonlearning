@@ -1,0 +1,12 @@
+Physical Exercise Done at  2020-08-09 20:48:26.838821 
+Eyes Rest at  2020-08-09 21:10:51.463073 
+Water drunk at  2020-08-09 21:10:54.600123 
+Water drunk at  2020-08-10 20:19:36.203284
+Eyes Rest at  2020-08-10 20:40:17.720123
+Water drunk at  2020-08-10 20:54:45.932124
+Physical Exercise Done at  2020-08-10 21:04:28.402050
+Water drunk at  2020-08-10 21:29:51.740849
+Eyes Rest at  2020-08-10 21:35:08.411669
+Water drunk at  2020-08-17 21:13:18.054550
+Eyes Rest at  2020-08-17 21:32:19.983419
+Water drunk at  2020-08-17 21:48:26.112590
